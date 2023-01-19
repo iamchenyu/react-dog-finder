@@ -1,0 +1,14 @@
+.Dog ul {
+  list-style-type: none;
+  font-size: 1.1rem;
+}
+
+.Dog li {
+  margin-top: 12px;
+}
+
+.Dog img {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+}
